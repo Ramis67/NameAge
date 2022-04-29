@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NameAge/static/css/main.4c1a179b.css",
+    "main.js": "/NameAge/static/js/main.3dcfba87.js",
+    "static/media/marek.jpg": "/NameAge/static/media/marek.f074cba19c5662eda4b2.jpg",
+    "index.html": "/NameAge/index.html",
+    "main.4c1a179b.css.map": "/NameAge/static/css/main.4c1a179b.css.map",
+    "main.3dcfba87.js.map": "/NameAge/static/js/main.3dcfba87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c1a179b.css",
+    "static/js/main.3dcfba87.js"
+  ]
+}
